@@ -2,7 +2,7 @@
 
 This project demonstrates the deployment of a live web server on AWS EC2 using Ubuntu Linux and Nginx. The objective of this project was to gain practical, hands-on experience with cloud infrastructure provisioning, Linux server management, and real-world web deployment on a public cloud platform.
 
-## 🔧 AWS Services Used
+## AWS Services Used
 This project utilizes core AWS cloud services and Linux tools to simulate a real-world deployment environment.
 
 **Key services and tools used:**
