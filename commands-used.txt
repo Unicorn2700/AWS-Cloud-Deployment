@@ -1,0 +1,8 @@
+ssh -i key.pem ubuntu@public-ip
+sudo apt update
+sudo apt install nginx -y
+sudo systemctl start nginx
+cd /var/www/html
+sudo nano index.html
+sudo systemctl restart nginx
+systemctl status nginx
