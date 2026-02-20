@@ -1,4 +1,4 @@
-# AWS Cloud Deployment Project 🚀
+# AWS Cloud Deployment Project
 
 This project demonstrates the deployment of a live web server on AWS EC2 using Ubuntu Linux and Nginx. The objective of this project was to gain practical, hands-on experience with cloud infrastructure provisioning, Linux server management, and real-world web deployment on a public cloud platform.
 
@@ -13,7 +13,7 @@ This project utilizes core AWS cloud services and Linux tools to simulate a real
 - Public IP networking for internet accessibility  
 - SSH for secure remote server access  
 
-## 🌐 Deployment Workflow
+## Deployment Workflow
 The deployment process involved launching and configuring a cloud server, connecting securely, installing required software, and hosting a live website accessible over the internet.
 
 **Steps performed:**
@@ -26,7 +26,7 @@ The deployment process involved launching and configuring a cloud server, connec
 - Hosted website on EC2 public IP  
 - Verified deployment and server status  
 
-## 📸 Project Screenshots
+## Project Screenshots
 The repository contains screenshots demonstrating the complete deployment workflow:
 
 - EC2 instance running on AWS console  
@@ -34,7 +34,7 @@ The repository contains screenshots demonstrating the complete deployment workfl
 - SSH terminal connected to server  
 - Nginx web server running confirmation  
 
-## 🧠 Key Learnings
+## Key Learnings
 Through this project, I gained practical exposure to real-world cloud and DevOps workflows. I learned how to provision and manage cloud servers, configure networking and firewall rules, and deploy web applications on a Linux-based environment.
 
 **Core skills developed:**
@@ -44,5 +44,5 @@ Through this project, I gained practical exposure to real-world cloud and DevOps
 - Networking and security fundamentals  
 - End-to-end deployment workflow  
 
-## 🎯 Project Outcome
+## Project Outcome
 Successfully deployed and hosted a live website on AWS cloud infrastructure using EC2 and Nginx. This project demonstrates foundational knowledge of cloud computing, deployment practices, and DevOps fundamentals relevant to Cloud and Software Engineering roles.
